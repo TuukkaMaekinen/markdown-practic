@@ -1,9 +1,9 @@
 # Movies - My favorite hobby
 
-My favorite hobby is movies. I watch them and I write about them. Movies are not only my *hobby*, they are my **passion**.
+My ***favorite*** hobby is movies. I watch them and I write about them. Movies are not only my *hobby*, they are my **passion**.
 I also host movie quiz in local pub at every Thursday.
 
-## My favorite movies Top-5:
+## My favorite movies Top-5
 
 1. Dumb and Dumber (1994)
 2. the Straight story (1999)
@@ -11,7 +11,7 @@ I also host movie quiz in local pub at every Thursday.
 4. Happiness (1998)
 5. Modern Times (1936)
 
-## My favorite directors:
+## My favorite directors
 
 - Peter & Bobby Farrelly
 - Wes Anderson
@@ -24,7 +24,7 @@ I also host movie quiz in local pub at every Thursday.
 - Luis Buñuel
 - Billy Wilder
 
-### Directors' best movies
+### Directors' best movies:
 
 | Director | Movie |
 | ----------- | ----------- |
@@ -39,7 +39,7 @@ I also host movie quiz in local pub at every Thursday.
 | Luis Buñuel | The Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie, 1972) |
 | Billy Wilder | Some Like It Hot (1959) |
 
-## Ways to make your own movie diary
+## Ways to make your own movie diary/list
 
 Coding is one way to write your own Movie Diary.
 Example (in Python):
